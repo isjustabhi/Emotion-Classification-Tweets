@@ -1,0 +1,23 @@
+# Modeling Experiment Proposal: Emotion Classification from Tweets
+
+## Topic
+
+For this project, I am building a machine learning model that predicts the **emotion expressed in a tweet**. I’m using the [`mteb/emotion`](https://huggingface.co/datasets/mteb/emotion) dataset from Hugging Face, which includes short English tweets labeled with one of six emotions: **joy**, **sadness**, **anger**, **fear**, **love**, and **surprise**.
+
+This project focuses on a traditional NLP approach using:
+- **TF-IDF** feature extraction
+- A **Logistic Regression** classifier
+- Evaluation via accuracy, F1-score, and confusion matrix
+
+## How This Project Differs from Existing Work
+
+While most recent emotion classification projects use large transformer models (like BERT or RoBERTa), this modeling experiment uses a **lightweight, interpretable pipeline**. The emphasis is on:
+- Simplicity and reproducibility (no GPU needed)
+- Classical machine learning techniques
+- Exploring how well simple models perform on emotional text data
+
+This baseline model could also serve as a reference point for future experiments using deep learning or multilingual emotion detection.
+
+## Live Site
+
+🔗 **Live GitHub Pages Site**: [https://isjustabhi.github.io/Emotion-Classification-Tweets/](https://isjustabhi.github.io/Emotion-Classification-Tweets/)
