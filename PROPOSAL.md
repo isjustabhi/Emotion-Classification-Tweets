@@ -57,5 +57,5 @@ This approach is designed to be efficient, reproducible, and easy to understand.
 ---
 
 - 📁 **Repo link**: [Emotion-Classification-Tweets](https://github.com/isjustabhi/Emotion-Classification-Tweets)
-- 📄 **Proposal**: [PROPOSAL.md](https://github.com/isjustabhi/Emotion-Classification-Tweets/blob/main/PROPOSAL.md)
+- 📄 **Proposal**: [PROPOSAL.md](https://github.com/isjustabhi/Emotion-Classification-Tweets/blob/main/Proposal.md)
 
