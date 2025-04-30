@@ -48,7 +48,8 @@ We use the [`mteb/emotion`](https://huggingface.co/datasets/mteb/emotion) datase
 
 ## 📊 Sample Confusion Matrix
 
-![Confusion Matrix](confusion_matrix_sample.png)
+![Confusion Matrix]![confusion_matrix_sample](https://github.com/user-attachments/assets/7cf3760e-ce12-4562-9153-df107e3ac41c)
+
 
 ---
 
