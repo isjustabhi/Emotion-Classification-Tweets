@@ -4,7 +4,7 @@
 **Emotion Classification in Tweets Using Traditional NLP Techniques**
 
 ## Project Motivation
-Emotions expressed on social media platforms, especially Twitter, can offer valuable insight into public opinion, mental health trends, and user engagement patterns. Understanding these emotions in real time can support organizations across sectors — from marketing teams looking to gauge campaign impact, to researchers studying societal sentiment.
+Emotions expressed on social media platforms, especially Twitter, can offer valuable insight into public opinion, mental health trends, and user engagement patterns. Understanding these emotions in real time can support organizations across sectors  from marketing teams looking to gauge campaign impact, to researchers studying societal sentiment.
 
 While many modern NLP models rely on deep learning architectures, this project explores the effectiveness of traditional approaches using classical machine learning and text vectorization methods to detect emotions from tweets.
 
